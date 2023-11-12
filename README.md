@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm mengdemao</h1>
 <h3 align="center">A passionate Embedded Software Engineer from China</h3>
 
